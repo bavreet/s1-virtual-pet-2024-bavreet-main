@@ -153,7 +153,7 @@ public class VirtualPet2 {
         face.setMessage("1, 2, 3, jump. Whew.");
         face.setImage("tired");
     }
-
+// double truth = 0.0;
     // Make the pet sleep
     public void sleep() {
         hunger += 1;
